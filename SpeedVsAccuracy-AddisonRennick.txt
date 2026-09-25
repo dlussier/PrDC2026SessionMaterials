@@ -1,0 +1,3 @@
+Session: Speed vs. Accuracy: Execution Modes for Agentic Workflows
+Speaker: Addison Rennick
+Source Materials: https://github.com/Dudely3/cadence
