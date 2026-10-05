@@ -1,0 +1,5 @@
+MITRE ATT&CK for Developers — Beyond OWASP
+
+repo: https://github.com/codebytes/mitre-attack-for-devs
+slides: https://chris-ayers.com/mitre-attack-for-devs/
+pdf: https://chris-ayers.com/mitre-attack-for-devs/Slides.pdf

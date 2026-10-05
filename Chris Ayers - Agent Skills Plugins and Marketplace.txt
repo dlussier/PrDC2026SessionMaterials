@@ -1,0 +1,6 @@
+Agent Skills, Plugins & Marketplace
+
+repo: https://github.com/codebytes/agent-skills
+slides: https://chris-ayers.com/agent-skills/
+pdf: https://chris-ayers.com/agent-skills/Slides.pdf
+
